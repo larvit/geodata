@@ -91,6 +91,9 @@ CREATE TABLE `geo_regions_territory` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='Reference: http://cldr.unicode.org/index/downloads - updated 2015-02-22';
 
 INSERT INTO `geo_regions_territory` (`id`, `contains`) VALUES
+(1,	10),
+(2,	260),
+(3,	581),
 (5,	32),
 (5,	68),
 (5,	76),
@@ -98,6 +101,7 @@ INSERT INTO `geo_regions_territory` (`id`, `contains`) VALUES
 (5,	170),
 (5,	218),
 (5,	238),
+(5,	239),
 (5,	254),
 (5,	328),
 (5,	600),
@@ -105,6 +109,9 @@ INSERT INTO `geo_regions_territory` (`id`, `contains`) VALUES
 (5,	740),
 (5,	858),
 (5,	862),
+(9,	162),
+(9,	166),
+(9,	334),
 (11,	132),
 (11,	204),
 (11,	270),
@@ -309,6 +316,7 @@ INSERT INTO `geo_regions_territory` (`id`, `contains`) VALUES
 (151,	643),
 (151,	703),
 (151,	804),
+(154,	74),
 (154,	208),
 (154,	233),
 (154,	234),
@@ -327,6 +335,7 @@ INSERT INTO `geo_regions_territory` (`id`, `contains`) VALUES
 (154,	833),
 (155,	40),
 (155,	56),
+(155,	86),
 (155,	250),
 (155,	276),
 (155,	438),
