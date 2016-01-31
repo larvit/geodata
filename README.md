@@ -1,6 +1,6 @@
 # geodata
 
-_!IMPORTANT!_ Not actively maintained. Instead this node module is what I'm using in my projects from now on: [https://github.com/larvit/larvitgeodata](github.com/larvit/larvitgeodata)
+_!IMPORTANT!_ Not actively maintained. Instead this node module is what I'm using in my projects from now on: [https://github.com/larvit/larvitgeodata](https://github.com/larvit/larvitgeodata)
 
 Geographical data in primary SQL form
 
